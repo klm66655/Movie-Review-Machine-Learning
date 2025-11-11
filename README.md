@@ -5,6 +5,8 @@ This project performs **sentiment analysis on movie reviews**, predicting whethe
 
 The models were trained in **Google Colab** using several techniques and exported for use in a **FastAPI backend**.
 
+![App Screenshot](./frontendss.png)
+
 ---
 
 ## 🧠 Models Used
