@@ -1,0 +1,17 @@
+# Ignore Python virtual env
+venv/
+__pycache__/
+
+# Ignore model files (veliki fajlovi)
+backend/models/
+*.pkl
+*.h5
+*.pt
+*.bin
+*.model
+
+# IDE i sistemski fajlovi
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
